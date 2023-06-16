@@ -219,85 +219,85 @@
       },
       "Turquoise": {
         "turquoise-50": {
-          "value": "#e8fcfa",
+          "value": "#e5fffb",
           "type": "color"
         },
         "turquoise-100": {
-          "value": "#d1faf6",
+          "value": "#ccfff7",
           "type": "color"
         },
         "turquoise-200": {
-          "value": "#a3f5ee",
+          "value": "#99fff0",
           "type": "color"
         },
         "turquoise-300": {
-          "value": "#75f0e5",
+          "value": "#66ffe8",
           "type": "color"
         },
         "turquoise-400": {
-          "value": "#47ebdd",
+          "value": "#33ffe0",
           "type": "color"
         },
         "turquoise-500": {
-          "value": "#17cfbf",
+          "value": "#00e5c3",
           "type": "color"
         },
         "turquoise-600": {
-          "value": "#12a194",
+          "value": "#00b298",
           "type": "color"
         },
         "turquoise-700": {
-          "value": "#0d736a",
+          "value": "#00806c",
           "type": "color"
         },
         "turquoise-800": {
-          "value": "#084540",
+          "value": "#004d41",
           "type": "color"
         },
         "turquoise-900": {
-          "value": "#052e2a",
+          "value": "#00332b",
           "type": "color"
         }
       },
       "Purple": {
         "purple-50": {
-          "value": "#efebfa",
+          "value": "#f4f0ff",
           "type": "color"
         },
         "purple-100": {
-          "value": "#dfd6f5",
+          "value": "#e6dbff",
           "type": "color"
         },
         "purple-200": {
-          "value": "#cfc2f0",
+          "value": "#d1bdff",
           "type": "color"
         },
         "purple-300": {
-          "value": "#bfadeb",
+          "value": "#c2a8ff",
           "type": "color"
         },
         "purple-400": {
-          "value": "#af99e5",
+          "value": "#ad8aff",
           "type": "color"
         },
         "purple-500": {
-          "value": "#7f5cd6",
+          "value": "#7033ff",
           "type": "color"
         },
         "purple-600": {
-          "value": "#5930c0",
+          "value": "#4800f0",
           "type": "color"
         },
         "purple-700": {
-          "value": "#42248f",
+          "value": "#3600b2",
           "type": "color"
         },
         "purple-800": {
-          "value": "#2f1a66",
+          "value": "#260080",
           "type": "color"
         },
         "purple-900": {
-          "value": "#1c0f3d",
+          "value": "#17004c",
           "type": "color"
         }
       },
