@@ -239,15 +239,15 @@
           "type": "color"
         },
         "purple-500": {
-          "value": "#7033ff",
+          "value": "#824dff",
           "type": "color"
         },
         "purple-600": {
-          "value": "#4800f0",
+          "value": "#5e1aff",
           "type": "color"
         },
         "purple-700": {
-          "value": "#3600b2",
+          "value": "#4600e5",
           "type": "color"
         },
         "purple-800": {
@@ -261,43 +261,43 @@
       },
       "Pink": {
         "pink-50": {
-          "value": "#fce8f7",
+          "value": "#ffe5f9",
           "type": "color"
         },
         "pink-100": {
-          "value": "#fad1f0",
+          "value": "#ffccf3",
           "type": "color"
         },
         "pink-200": {
-          "value": "#f7bae8",
+          "value": "#ffb2ed",
           "type": "color"
         },
         "pink-300": {
-          "value": "#f28cd9",
+          "value": "#ff80e1",
           "type": "color"
         },
         "pink-400": {
-          "value": "#ef71d0",
+          "value": "#ff61da",
           "type": "color"
         },
         "pink-500": {
-          "value": "#eb47c2",
+          "value": "#ff33cf",
           "type": "color"
         },
         "pink-600": {
-          "value": "#e830bb",
+          "value": "#f300b9",
           "type": "color"
         },
         "pink-700": {
-          "value": "#cf17a1",
+          "value": "#b20089",
           "type": "color"
         },
         "pink-800": {
-          "value": "#730d59",
+          "value": "#800060",
           "type": "color"
         },
         "pink-900": {
-          "value": "#450836",
+          "value": "#4d003b",
           "type": "color"
         }
       },
